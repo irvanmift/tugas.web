@@ -1,0 +1,202 @@
+body{
+	padding: 0px;
+	margin: 0px;
+	background: white ;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	font-size: 13px;
+}
+
+.topmenu{
+	width: 100%;
+	height: 60px;
+	background: #2c3e50 ;
+	color: white;
+}
+
+.tabeltopmenu{
+	padding-left: 10%;
+}
+
+.topjudullogin{
+	width: 100%;
+	height: 350px;
+	background: #34495e;
+	padding-top: 50px;
+	color: white;
+}
+
+.topjudul{
+	width: 100%;
+	height: 250px;
+	background: #34495e;
+	padding-top: 50px;
+	color: white;
+}
+
+.labeljudul{
+	padding-left: 10%;
+	font-size: 50px;
+}
+
+.labellogin{
+	padding-left: 10%;
+}
+
+.buttonmasuk{
+	width: 35px;
+    padding: 5px 30px;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+.buttonmasuk:hover{
+	width: 36px;
+	padding: 6px 31px;
+	font-size: 14px;
+}
+
+.menu{
+	width: 35px;
+    padding: 5px 30px;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+.menu:hover{
+	width: 36px;
+	padding: 6px 31px;
+	font-size: 14px;
+}
+
+.buttondaftar{
+	width: 35px;
+    padding: 5px 30px;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 25px;
+    color: white;
+    text-decoration: none;
+    border: 1px solid white;
+}
+
+.buttondaftar:hover{
+	width: 36px;
+	padding: 6px 31px;
+	font-size: 14px;
+}
+
+.buttontrans{
+	background-color: transparent;
+	color: white;
+	text-decoration: none;
+	border: 0px;
+}
+
+.buttondaftar2{
+	width: 35px;
+    padding: 5px 30px;
+    background-color: transparent;
+    cursor: pointer;
+    border-radius: 25px;
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+}
+
+.buttondaftar2:hover{
+	width: 36px;
+	padding: 6px 31px;
+	font-size: 14px;
+}
+
+.buttontrans2{
+	background-color: transparent;
+	color: black;
+	text-decoration: none;
+	border: 0px;
+}
+
+.halaman{
+	background: #2c3e50;
+	width: 100%;
+	height: 40px;
+}
+
+.labelhalaman{
+	color: white;
+	margin: 0;
+	padding-top: 10px;
+	padding-left: 10%;
+}
+
+.container{
+	padding: 10%;
+	background: #ecf0f1;
+	padding-bottom:100px;
+}
+
+.isi{
+	background: white;
+	width: 800px;
+	padding: 20px; 
+}
+
+.footer{
+	width: 100%;
+	height: 200px;
+	background: #34495e;
+	padding-top: 50px;
+	color: white;
+}
+
+.tambahartikel{
+	padding-left: 10%;
+}
+
+.divartikel{
+	background: #ecf0f1;
+	padding-bottom: 20px; 
+}
+
+.judulartikel{
+	font-size: 35px;
+	padding-left: 10%;
+}
+
+.padding{
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+.klikartikel{
+	text-decoration: none;
+	color: black;
+}
+
+.klikartikel:hover{
+	color: #34495e;
+}
+
+.ukuran1{
+	font-size: 30px;
+}
+
+.ukuran2{
+	font-size: 18px;
+}
+
+.ukuran3{
+	font-size: 15px;
+}
+
+.abu{
+	color: #34495e;
+}
